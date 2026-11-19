@@ -1,0 +1,26 @@
+rnk,store_id,zone,peak_late_pct,offpeak_late_pct,peak_p90_mins
+1,DS13,Noida,42.4,1.4,18.0
+1,DS07,South Delhi,42.4,1.4,18.1
+3,DS19,West Delhi,41.9,1.2,18.1
+4,DS11,Noida,7.2,1.3,14.4
+5,DS04,Gurgaon,7.1,1.5,14.5
+6,DS20,West Delhi,7.0,1.4,14.4
+7,DS25,Faridabad,6.8,1.2,14.4
+8,DS06,South Delhi,6.7,1.3,14.3
+9,DS01,Gurgaon,6.6,1.5,14.4
+9,DS09,South Delhi,6.6,1.2,14.4
+9,DS15,Noida,6.6,1.4,14.4
+12,DS02,Gurgaon,6.5,1.1,14.3
+12,DS16,West Delhi,6.5,1.2,14.3
+14,DS22,Faridabad,6.4,1.3,14.4
+14,DS21,Faridabad,6.4,1.2,14.3
+16,DS05,Gurgaon,6.3,1.2,14.3
+17,DS08,South Delhi,6.2,1.2,14.2
+18,DS03,Gurgaon,6.1,1.5,14.2
+18,DS14,Noida,6.1,1.1,14.2
+18,DS23,Faridabad,6.1,1.3,14.2
+21,DS24,Faridabad,6.0,1.2,14.1
+21,DS12,Noida,6.0,1.1,14.2
+23,DS18,West Delhi,5.8,1.1,14.1
+24,DS17,West Delhi,5.7,1.3,14.2
+25,DS10,South Delhi,5.6,1.4,14.1
