@@ -27,3 +27,6 @@ python3 -m venv .venv && .venv/bin/pip install duckdb pandas numpy
 ## Files
 - `sql/analysis.sql`: all queries (data quality, KPIs, anomalies, store ranking, defects, inventory turns, promo DiD)
 - `outputs/*.csv`: query results, ready for Tableau / Google Sheets
+- `reports/ops_dashboard.xlsx`: Excel KPI dashboard (KPI tiles, lookup formulas, conditional formatting, charts); opens in Google Sheets too
+- `reports/summary_deck.pdf`: 5-slide stakeholder summary (findings and recommendations)
+- `build_reports.py`: rebuilds both reports from `outputs/`
